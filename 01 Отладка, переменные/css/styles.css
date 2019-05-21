@@ -1,0 +1,15 @@
+
+.Result{
+    background: green;
+
+}
+.noneResult{
+    background: red;
+
+}
+.inform{
+    display: flex;
+    font-size: 50px;
+    padding-top: 15px;
+    font-style:italic;
+}
